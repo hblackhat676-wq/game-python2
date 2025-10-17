@@ -1,0 +1,7 @@
+flask
+gunicorn
+requests
+flask_sqlalchemy
+flask_login
+flask_wtf
+python-dotenv
